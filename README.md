@@ -1,5 +1,5 @@
 # coding-exercise-JavaScript
-find all the non-duplicate number
+Find all the non-duplicate number
 
 # example: 
 
